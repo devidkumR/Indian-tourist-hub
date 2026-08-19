@@ -75,7 +75,7 @@ Since this project is hosted on Blogger:
 
 ## 🙋 Author
 
-**Name:** Avani garg  
+**Name:** Devid kumar  
 **Class/Project:** ICT Project  
 **Platform:** Blogger  
 
