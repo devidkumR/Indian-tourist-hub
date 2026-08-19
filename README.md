@@ -94,3 +94,6 @@ Since this project is hosted on Blogger:
 
 This project demonstrates how a simple and effective educational website can be created using Blogger without advanced coding, while still delivering useful content to users.
 
+## 🧑‍💻 Development Notes
+
+This project is maintained as a practical web-development and ICT learning project. Future updates will focus on improving accessibility, responsive design, educational content, and interactive web features.
